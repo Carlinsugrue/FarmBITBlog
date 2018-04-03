@@ -2,9 +2,9 @@ logo: FARM B.I.T
 title: FARM B.I.T
 description: > # this means to ignore newlines until "baseurl:"
   Otago Polytech Farm B.I.T Blog
-permalink: ':title/'
-baseurl: "/FarmBITBlog" # the subpath of your site, e.g. /blog
-url: "carlinsugrue.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: 'https://carlinsugrue.github.io/FarmBITBlog/'
+baseurl: "FarmBITBlog/" # the subpath of your site, e.g. /blog
+url: "https://carlinsugrue.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: Farmbot.mp4 # add banner video. Add your video file to the folder video
