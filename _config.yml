@@ -3,7 +3,7 @@ title: FARM B.I.T
 description: > # this means to ignore newlines until "baseurl:"
   Otago Polytech Farm B.I.T Blog
 permalink: 'https://carlinsugrue.github.io/FarmBITBlog/'
-baseurl: "FarmBITBlog/" # the subpath of your site, e.g. /blog
+baseurl: "/FarmBITBlog" # the subpath of your site, e.g. /blog
 url: "https://carlinsugrue.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
